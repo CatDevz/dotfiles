@@ -40,6 +40,14 @@ settings:
     global: '#ebdbb2'
   colors.completion.odd.bg:
     global: '#1d2021'
+  colors.contextmenu.menu.bg:
+    global: '#282828'
+  colors.contextmenu.menu.fg:
+    global: '#a89984'
+  colors.contextmenu.selected.bg:
+    global: '#1d2021'
+  colors.contextmenu.selected.fg:
+    global: '#ebdbb2'
   colors.downloads.bar.bg:
     global: '#282828'
   colors.downloads.error.bg:
@@ -101,7 +109,7 @@ settings:
   colors.tabs.selected.odd.fg:
     global: '#ebdbb2'
   colors.webpage.bg:
-    global: '#1d2021'
+    global: white
   colors.webpage.prefers_color_scheme_dark:
     global: true
   content.fullscreen.window:
@@ -119,6 +127,7 @@ settings:
   content.notifications:
     https://top.gg: true
     https://www.facebook.com: false
+    https://www.nydailynews.com: false
     https://www.pocket-lint.com: false
     https://www.reddit.com: false
     https://www.youtube.com: false

@@ -1,0 +1,11 @@
+configuration {
+        /*modi: "combi,drun,run,window,clipboard:greenclip print,emoji,symbols:rofi-unicode,calc,ssh";*/
+        /*font: "Noto Sans 12";
+        show-icons: true;
+        icon-theme: "Papirus-Dark";
+	combi-modi: "drun,run,window,ssh";
+	scroll-method: 1;
+        sidebar-mode: true;*/
+        theme: "~/.config/rofi/gruvbox-dark.rasi";
+        /*theme: "~/.cache/wal/colors-rofi-dark.rasi";*/
+}
